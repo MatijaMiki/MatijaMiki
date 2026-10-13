@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="" width="100%">
+<img src="hero.svg" alt="ranwhat: a flight recorder for AI coding agents" width="100%">
 
 # hey, I'm Matija
 
@@ -6,10 +6,12 @@ Building **[ranwhat](https://ranwhat.com)**: a flight recorder for AI coding age
 
 ranwhat reads what **Claude Code**, **Codex**, **Gemini CLI** and 17 other agents already ran on your machine, flags the risky actions, and finds the API keys they left in their transcripts. It runs locally, sends nothing, and is MIT licensed.
 
-[![ranwhat repository](https://img.shields.io/badge/ranwhat-repository-ea8471?style=for-the-badge&logo=github&logoColor=white&labelColor=151B21)](https://github.com/MatijaMiki/ranwhat)
-[![ranwhat.com website](https://img.shields.io/badge/ranwhat.com-website-ea8471?style=for-the-badge&labelColor=151B21)](https://ranwhat.com)
-[![ranwhat on PyPI](https://img.shields.io/pypi/v/ranwhat?style=for-the-badge&logo=python&logoColor=white&label=pypi&labelColor=151B21&color=ea8471)](https://pypi.org/project/ranwhat/)
-[![@ranwhatcom on X](https://img.shields.io/badge/@ranwhatcom-X-ea8471?style=for-the-badge&logo=x&logoColor=white&labelColor=151B21)](https://x.com/ranwhatcom)
+<p>
+  <a href="https://github.com/MatijaMiki/ranwhat"><img src="pill-repo.svg" alt="ranwhat repository" height="48"></a>
+  <a href="https://ranwhat.com"><img src="pill-site.svg" alt="ranwhat.com" height="48"></a>
+  <a href="https://pypi.org/project/ranwhat/"><img src="pill-pypi.svg" alt="ranwhat on PyPI" height="48"></a>
+  <a href="https://x.com/ranwhatcom"><img src="pill-x.svg" alt="@ranwhatcom on X" height="48"></a>
+</p>
 
 ## ranwhat
 
@@ -38,3 +40,5 @@ Practical AI agent security, each checked against the vendors' own documentation
 - [An AI agent saw my API key. What now?](https://ranwhat.com/guides/rotate-leaked-api-key-ai-agent)
 
 [All guides →](https://ranwhat.com/guides)
+
+<img src="footer.svg" alt="" width="100%">
