@@ -1,4 +1,4 @@
-<img src="hero.svg" alt="ranwhat: a flight recorder for AI coding agents" width="100%">
+<img src="banner.svg" alt="" width="100%">
 
 # hey, I'm Matija
 
